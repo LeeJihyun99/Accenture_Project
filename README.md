@@ -18,3 +18,26 @@ But this company is facing challenges in managing their massive and unstructured
 2) Load the cleaned CSV files into data tables and retrieve the top 5 content categories based on the total scores of reactions received per content.
 3) Create visualizations to illustrate the findings.
 
+## 1) How the data should be cleaned: (see clean_data jupyter notebook for code details)
+Task1) removing columns which are not relevant to this task.
+Task2) changing the data type of some values within a column, and
+Task 3) removing rows that have values which are missing
+
+## 2) Load the cleaned CSV files into data tables in mySQL and do data modeling for analysis
+Analysis 1: All types of categories and top 5 categories
+Analysis 2: Reaction types of top 5 categories (Are they in top 5 because people like them or dislike them?)
+Analysis 3: Relation between the time and the categories
+
+## 3) Create visualizations (Tableau)
+https://public.tableau.com/views/accenture_project/Dashboard12?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+I created a dashboard including all three analyses using Tableau for visualizations
+
+Analysis 1: All types of categories and top 5 categories
+![top_5_categories](https://github.com/user-attachments/assets/ad3243c9-3153-4885-8511-f7fc3c284486)
+
+Analysis 2: Reaction types of top 5 categories (Are they in top 5 because people like them or dislike them?)
+![sentiments_categories](https://github.com/user-attachments/assets/2c81e74d-2fe5-476d-8e44-30def2f5ab86)
+
+Analysis 3: Relation between the time and the categories
+![time_and_reactions](https://github.com/user-attachments/assets/1a95654f-d909-4d29-a8af-06544bedf2c1)
+
