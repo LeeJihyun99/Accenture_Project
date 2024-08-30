@@ -23,7 +23,7 @@ Task1) removing columns which are not relevant to this task.
 Task2) changing the data type of some values within a column, and
 Task 3) removing rows that have values which are missing
 
-## 2) Load the cleaned CSV files into data tables in mySQL and do data modeling for analysis
+## 2) Load the cleaned CSV files into data tables in mySQL and do data modeling for analysis (see sql_for_data_modelling file for code details)
 Analysis 1: All types of categories and top 5 categories
 Analysis 2: Reaction types of top 5 categories (Are they in top 5 because people like them or dislike them?)
 Analysis 3: Relation between the time and the categories
