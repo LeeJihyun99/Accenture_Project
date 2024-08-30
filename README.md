@@ -29,15 +29,16 @@ Analysis 2: Reaction types of top 5 categories (Are they in top 5 because people
 Analysis 3: Relation between the time and the categories
 
 ## 3) Create visualizations (Tableau)
-https://public.tableau.com/views/accenture_project/Dashboard12?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/jihyun.lee6775/viz/accenture_project/Dashboard12?publish=yes
+
 I created a dashboard including all three analyses using Tableau for visualizations
 
-Analysis 1: All types of categories and top 5 categories
+### Analysis 1: All types of categories and top 5 categories
 ![top_5_categories](https://github.com/user-attachments/assets/ad3243c9-3153-4885-8511-f7fc3c284486)
 
-Analysis 2: Reaction types of top 5 categories (Are they in top 5 because people like them or dislike them?)
+### Analysis 2: Reaction types of top 5 categories (Are they in top 5 because people like them or dislike them?)
 ![sentiments_categories](https://github.com/user-attachments/assets/2c81e74d-2fe5-476d-8e44-30def2f5ab86)
 
-Analysis 3: Relation between the time and the categories
+### Analysis 3: Relation between the time and the categories
 ![time_and_reactions](https://github.com/user-attachments/assets/1a95654f-d909-4d29-a8af-06544bedf2c1)
 
