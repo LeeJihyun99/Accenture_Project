@@ -36,9 +36,17 @@ I created a dashboard including all three analyses using Tableau for visualizati
 ### Analysis 1: All types of categories and top 5 categories
 ![top_5_categories](https://github.com/user-attachments/assets/ad3243c9-3153-4885-8511-f7fc3c284486)
 
+The top categories are "Animals" and "Science," showing a strong interest in both scientific curiosity and cute animals. "Healthy Eating" and "Food" are also among the top five, highlighting a focus on health and a love for delicious foods. Overall, people are drawn to a mix of learning about science, enjoying cute animal content, and maintaining a balance between healthy and tasty eating habits.
+
 ### Analysis 2: Reaction types of top 5 categories (Are they in top 5 because people like them or dislike them?)
 ![sentiments_categories](https://github.com/user-attachments/assets/2c81e74d-2fe5-476d-8e44-30def2f5ab86)
+
+Interestingly, the "Animals" category leads in both positive and negative reactions, indicating that while animal content captures significant attention, it also provokes a wide range of strong emotional responses from users.
 
 ### Analysis 3: Relation between the time and the categories
 ![time_and_reactions](https://github.com/user-attachments/assets/1a95654f-d909-4d29-a8af-06544bedf2c1)
 
+Negative reactions are most common in the early mornings and around midnight, while positive reactions peak in the afternoons and late evenings. This pattern suggests that users tend to be more negative at the start and end of the day, likely reflecting mood variations that impact both the timing of content posting and the nature of their reactions. For example, people are in a rather positive mood after work or school at night or in the afternoon, whereas they are in a relatively bad mood before going for work in the mornings or due to lack of sleep or tiredness at midnights. 
+
+## Summary
+I identified the top-performing content categories, analyzed reaction types and their sentiments, and uncovered key time-based trends in user behavior. These insights will help Social Buzz better understand its audience, optimize content strategy, and prepare for a successful IPO. Moreover, these findings provide a foundation for future developments, such as a recommender system that personalizes content exposure based on user patterns. This motivated us to analyze not only the top 5 content categories but also the sentiment behind the reactions they receive.
