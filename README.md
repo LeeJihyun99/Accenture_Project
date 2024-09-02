@@ -43,7 +43,7 @@ The top categories are "Animals" and "Science," showing a strong interest in bot
 
 Interestingly, the "Animals" category leads in both positive and negative reactions, indicating that while animal content captures significant attention, it also provokes a wide range of strong emotional responses from users.
 
-### Analysis 3: Relation between the time and the categories
+### Analysis 3: Relation between the time and the sentiments
 ![time_and_reactions](https://github.com/user-attachments/assets/1a95654f-d909-4d29-a8af-06544bedf2c1)
 
 Negative reactions are most common in the early mornings and around midnight, while positive reactions peak in the afternoons and late evenings. This pattern suggests that users tend to be more negative at the start and end of the day, likely reflecting mood variations that impact both the timing of content posting and the nature of their reactions. For example, people are in a rather positive mood after work or school at night or in the afternoon, whereas they are in a relatively bad mood before going for work in the mornings or due to lack of sleep or tiredness at midnights. 
